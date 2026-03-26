@@ -1,0 +1,12 @@
+# YYC Food Truck Tracker 🚚
+
+This is a [Next.js](https://nextjs.org/) project for tracking Calgary food trucks.
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
