@@ -9,6 +9,10 @@
 
 ![YYC Food Truck Tracker](https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&h=400&fit=crop)
 
+## 📸 Screenshot
+
+![YYC Food Truck Tracker Screenshot](./public/screenshot.png)
+
 ## 🌟 Features
 
 - **🗺️ Interactive Map** - See all food trucks on a live map with real-time location updates
